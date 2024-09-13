@@ -36,8 +36,6 @@ To run this project, you will need the following Python libraries:
 - `scikit-learn`
 - `xgboost`
 - `statsmodels`
-- `matplotlib`
-- `seaborn`
 
 Install the dependencies using pip:
 
